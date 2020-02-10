@@ -1,1 +1,1 @@
-fe-interview-2
+ui-job-interview-exercises
